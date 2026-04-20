@@ -1,0 +1,213 @@
+{
+  "nav": {
+    "how": "How It Works",
+    "features": "Features",
+    "pricing": "Pricing",
+    "cta": "Start Free Pilot"
+  },
+  "hero": {
+    "badge": "Now live · Balkans-first fleet platform",
+    "title_line1": "Every truck.",
+    "title_line2": "Every euro.",
+    "title_line3": "One platform.",
+    "sub_strong": "Remote tachograph download. Documents in one place. Live GPS.",
+    "sub_rest": "No more driving your fleet to the service center every 28 days. Groute does it in two clicks — wherever the truck is.",
+    "primary_cta": "Start Free 30-Day Pilot",
+    "secondary_cta": "See How It Works →",
+    "stats": {
+      "fine_val": "€5,100",
+      "fine_label": "Fine for 1 missed tachograph download · BiH",
+      "clicks_val": "2",
+      "clicks_accent": "clicks",
+      "clicks_label": "To download tachograph data remotely",
+      "price_val": "€15",
+      "price_label": "Per vehicle / month — Starter plan",
+      "days_val": "5",
+      "days_accent": "days",
+      "days_label": "Average onboarding time"
+    },
+    "dashboard": {
+      "title": "groute.app · Fleet Dashboard",
+      "active_vehicles": "Active Vehicles",
+      "active_sub": "All reporting",
+      "tacho_status": "Tacho Status",
+      "tacho_val": "Compliant",
+      "tacho_sub": "Last sync 2 min ago",
+      "fuel_avg": "Fuel Avg.",
+      "fuel_sub": "↑ 3% vs last week",
+      "live_label": "LIVE TRACKING · 24 VEHICLES",
+      "live_badge": "● LIVE",
+      "th_vehicle": "Vehicle",
+      "th_driver": "Driver",
+      "th_hos": "HOS",
+      "th_tacho": "Tacho",
+      "th_status": "Status",
+      "status_moving": "Moving",
+      "status_rest": "Rest"
+    }
+  },
+  "pain": {
+    "label": "The Problem",
+    "title_a": "Sound ",
+    "title_em": "familiar?",
+    "sub": "Every fleet operator we talk to has at least two of these problems. Left unaddressed, they turn into fines, lost time, and accidents waiting to happen.",
+    "cards": {
+      "c1_title": "Tachograph every 28 days",
+      "c1_text": "Drivers and vehicles must be at the service center simultaneously, every 28 days. Coordinator hell. Lost trips. Forgotten downloads.",
+      "c1_fine": "Up to €5,100 fine · BiH",
+      "c2_title": "Documents scattered everywhere",
+      "c2_text": "Registration in email. Insurance in a drawer. Driver license photo on WhatsApp. Vehicle inspection report — nobody knows where. Until inspection day.",
+      "c3_title": "Fuel costs are a black box",
+      "c3_text": "No per-vehicle fuel data. No per-route cost breakdown. No way to catch the truck consuming 20% more than the rest of the fleet.",
+      "c4_title": "Routes by gut feel",
+      "c4_text": "Dispatchers pick routes by habit, not data. No traffic, no tolls, no vehicle restrictions factored in. Unnecessary fuel burn on every trip.",
+      "c5_title": "Maintenance surprises",
+      "c5_text": "No alerts for approaching service intervals. Breakdowns catch you off guard mid-route. Reactive maintenance instead of predictive.",
+      "c6_title": "Zero driver visibility",
+      "c6_text": "Harsh braking, speeding, idling — no data until something breaks or someone gets hurt. HOS violations go undetected until the inspection.",
+      "c6_fine": "Up to €4,300 fine · Serbia"
+    }
+  },
+  "how": {
+    "label": "Process",
+    "title_a": "From first contact",
+    "title_em": "to live data in 5 days",
+    "steps": {
+      "s1_title": "Discovery Call — 15 minutes",
+      "s1_text": "We ask about your fleet, your current tachograph process, and where documents live. No pitch. We show only what's relevant for you.",
+      "s2_title": "30-Day Free Pilot",
+      "s2_text": "We install devices on 2 of your vehicles. €100 refundable deposit per device. No subscription. No installation fee. You see real data from your actual fleet.",
+      "s3_title": "Installation — Same Week",
+      "s3_text": "Our team comes to you. OBD-II plug-in for light vehicles (2 min). CAN bus hardwired for heavy trucks with tachograph integration (~3 hours/truck).",
+      "s4_title": "Live Data — Immediately",
+      "s4_text": "As soon as devices are installed, you see real-time location, fuel, and tachograph data. No waiting. No setup. Just open the browser.",
+      "s5_title": "Pilot Review → Scale",
+      "s5_text": "After 30 days, we review the data together. If you see value — we expand to the full fleet. If not — full deposit refund, no questions asked."
+    },
+    "timeline": {
+      "title": "Pilot Timeline",
+      "day0_day": "Day 0",
+      "day0_title": "Agreement & Order",
+      "day0_desc": "€100 deposit confirmed. Teltonika devices ordered. WhatsApp channel opened.",
+      "day0_badge": "Setup",
+      "day12_day": "Day 1–2",
+      "day12_title": "Platform Configured",
+      "day12_desc": "Vehicle profiles, users, alerts, geofences — all ready before devices arrive.",
+      "day12_badge": "Config",
+      "day34_day": "Day 3–4",
+      "day34_title": "Hardware Installed",
+      "day34_desc": "Our team at your depot. GPS signal verified. Tachograph connection confirmed.",
+      "day34_badge": "Install",
+      "day5_day": "Day 5",
+      "day5_title": "Go Live",
+      "day5_desc": "System declared live. Training session complete. Data flowing in real time.",
+      "day5_badge": "Live ●",
+      "day7_day": "Day 7",
+      "day7_title": "First Check-in",
+      "day7_desc": "We review early data together. First insights. Any blockers resolved same day.",
+      "day7_badge": "Review",
+      "day30_day": "Day 30",
+      "day30_title": "Pilot Review",
+      "day30_desc": "Full results presented. ROI calculated. Expand to full fleet or full refund — your call.",
+      "day30_badge": "Decision"
+    }
+  },
+  "features": {
+    "label": "Platform",
+    "title_a": "One login.",
+    "title_em": "Everything.",
+    "sub": "Stop juggling 5 different tools. GPS, tachograph, documents, routes, diagnostics — all in one command center.",
+    "cards": {
+      "remote_title": "Remote Tachograph Download",
+      "remote_text": "Download driver card and vehicle unit data remotely in two clicks — no matter where the truck is. Automated compliance checks against EU Regulation 561/2006. Alerts for approaching violations before they happen. Exportable reports for roadside inspections.",
+      "remote_tag": "★ Key Differentiator",
+      "docs_title": "Documents Management",
+      "docs_text": "All registrations, driver licenses, insurance certificates, and inspection reports — in one searchable place. Automatic expiry alerts 30 days in advance. Role-based access.",
+      "docs_tag": "★ Unique on the market",
+      "gps_title": "Real-Time GPS",
+      "gps_text": "Live location of every vehicle. Geofencing with automated alerts. Historical route playback. Status indicators: moving, idling, parked.",
+      "fuel_title": "Fuel Analytics",
+      "fuel_text": "Per-vehicle and per-route fuel consumption. Anomaly detection for fuel theft or leakage. Cost-per-kilometer calculations. Fleet benchmarking.",
+      "route_title": "Route Optimization",
+      "route_text": "AI-assisted route planning with traffic, tolls, vehicle type restrictions, and delivery windows. Real-time ETA updates for dispatchers.",
+      "diag_title": "Diagnostics & HOS",
+      "diag_text": "Live HOS data tracking for every driver. Engine fault codes, oil pressure, battery voltage monitored continuously. Predictive maintenance alerts."
+    }
+  },
+  "fines": {
+    "label": "Compliance",
+    "title_a": "One fine covers",
+    "title_em": "years of Groute.",
+    "sub": "These are the real fines for tachograph violations across the Balkans. One missed download in BiH can cost more than a full year of Groute subscription for your entire fleet.",
+    "types": {
+      "missed": "Missed download",
+      "hos": "HOS violation",
+      "manip": "Manipulation"
+    },
+    "countries": {
+      "serbia": "Serbia",
+      "bih": "BiH",
+      "croatia": "Croatia",
+      "slovenia": "Slovenia"
+    }
+  },
+  "pricing": {
+    "label": "Pricing",
+    "title_a": "Transparent. Per vehicle.",
+    "title_em": "No surprises.",
+    "sub": "No hidden fees. No long-term lock-in. Month-to-month available. The product retains you — not the contract.",
+    "per_vehicle": "/ vehicle",
+    "billing": "per month · billed monthly · 10% off annually",
+    "starter": {
+      "name": "Starter",
+      "f1": "Real-time GPS tracking",
+      "f2": "Vehicle telematics",
+      "f3": "Cost calculation per route",
+      "f4": "Route planning",
+      "f5": "Service notifications",
+      "f6": "Driver card expiry tracking",
+      "f7": "Route history",
+      "cta": "Start Free Pilot"
+    },
+    "pro": {
+      "name": "Professional",
+      "badge": "Popular",
+      "f1": "Everything in Starter",
+      "f2": "Remote tachograph download (DDD)",
+      "f3": "Documents Management",
+      "f4": "Live HOS Data",
+      "f5": "HOS Compliance (EU 561/2006)",
+      "f6": "Priority support",
+      "cta": "Start Free Pilot"
+    },
+    "pilot": {
+      "title": "Start with a free 30-day pilot",
+      "desc": "We install devices on 2 of your vehicles. You pay a refundable deposit of €100 per device. No subscription. No installation fee. Full refund if you're not satisfied — no questions asked.",
+      "deposit_val": "€100",
+      "deposit_label": "Refundable deposit",
+      "days_val": "30",
+      "days_label": "Days free",
+      "install_val": "€0",
+      "install_label": "Installation cost"
+    }
+  },
+  "cta": {
+    "label": "Get Started",
+    "title_a": "Stop driving your trucks",
+    "title_em": "to the service center.",
+    "sub": "Book a 15-minute call. No pitch. We ask about your fleet and show you only what's relevant. If it makes sense — we'll have devices on your trucks within the week.",
+    "primary": "Book a Discovery Call",
+    "secondary": "Send Us a Message",
+    "note_pilot": "Free 30-day pilot",
+    "note_deposit": "€100 refundable deposit",
+    "note_commit": "No long-term commitment"
+  },
+  "footer": {
+    "tagline": "Fleet Intelligence, Delivered · Balkans-first",
+    "features": "Features",
+    "pricing": "Pricing",
+    "pilot": "Pilot",
+    "contact": "Contact",
+    "copy": "© 2026 Groute · Brcko District, Bosnia and Herzegovina · GDPR Compliant"
+  }
+}

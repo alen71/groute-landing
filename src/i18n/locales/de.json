@@ -1,0 +1,213 @@
+{
+  "nav": {
+    "how": "So funktioniert's",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "cta": "Kostenlosen Piloten starten"
+  },
+  "hero": {
+    "badge": "Jetzt live · Erste Flottenplattform für den Balkan",
+    "title_line1": "Jeder LKW.",
+    "title_line2": "Jeder Euro.",
+    "title_line3": "Eine Plattform.",
+    "sub_strong": "Ferngesteuerter Tachograph-Download. Dokumente an einem Ort. Live-GPS.",
+    "sub_rest": "Schluss damit, alle 28 Tage in die Werkstatt zu fahren. Groute erledigt es mit zwei Klicks — wo immer der LKW auch ist.",
+    "primary_cta": "Kostenlosen 30-Tage-Piloten starten",
+    "secondary_cta": "So funktioniert's →",
+    "stats": {
+      "fine_val": "€5.100",
+      "fine_label": "Bußgeld für 1 verpassten Tachograph-Download · BiH",
+      "clicks_val": "2",
+      "clicks_accent": "Klicks",
+      "clicks_label": "Für den Fern-Download der Tachograph-Daten",
+      "price_val": "€15",
+      "price_label": "Pro Fahrzeug / Monat — Starter-Paket",
+      "days_val": "5",
+      "days_accent": "Tage",
+      "days_label": "Durchschnittliche Onboarding-Zeit"
+    },
+    "dashboard": {
+      "title": "groute.app · Flotten-Dashboard",
+      "active_vehicles": "Aktive Fahrzeuge",
+      "active_sub": "Alle melden",
+      "tacho_status": "Tacho-Status",
+      "tacho_val": "Konform",
+      "tacho_sub": "Letzter Sync vor 2 Min",
+      "fuel_avg": "Verbrauch Ø",
+      "fuel_sub": "↑ 3% vs. Vorwoche",
+      "live_label": "LIVE-TRACKING · 24 FAHRZEUGE",
+      "live_badge": "● LIVE",
+      "th_vehicle": "Fahrzeug",
+      "th_driver": "Fahrer",
+      "th_hos": "HOS",
+      "th_tacho": "Tacho",
+      "th_status": "Status",
+      "status_moving": "Fährt",
+      "status_rest": "Pause"
+    }
+  },
+  "pain": {
+    "label": "Das Problem",
+    "title_a": "Kommt Ihnen das ",
+    "title_em": "bekannt vor?",
+    "sub": "Jeder Flottenbetreiber, mit dem wir sprechen, hat mindestens zwei dieser Probleme. Unbehandelt führen sie zu Bußgeldern, verlorener Zeit und vermeidbaren Unfällen.",
+    "cards": {
+      "c1_title": "Tachograph alle 28 Tage",
+      "c1_text": "Fahrer und Fahrzeuge müssen gleichzeitig in der Werkstatt sein, alle 28 Tage. Koordinationschaos. Verlorene Touren. Vergessene Downloads.",
+      "c1_fine": "Bis zu €5.100 Bußgeld · BiH",
+      "c2_title": "Dokumente überall verstreut",
+      "c2_text": "Zulassung in der E-Mail. Versicherung in der Schublade. Führerscheinfoto auf WhatsApp. TÜV-Bericht — niemand weiß wo. Bis zum Prüftag.",
+      "c3_title": "Kraftstoffkosten sind eine Blackbox",
+      "c3_text": "Keine Verbrauchsdaten pro Fahrzeug. Keine Aufschlüsselung nach Route. Keine Möglichkeit, den LKW zu erkennen, der 20% mehr verbraucht.",
+      "c4_title": "Routen nach Bauchgefühl",
+      "c4_text": "Disponenten wählen Routen nach Gewohnheit, nicht nach Daten. Keine Berücksichtigung von Verkehr, Maut oder Fahrzeugrestriktionen. Unnötiger Verbrauch bei jeder Fahrt.",
+      "c5_title": "Wartungs-Überraschungen",
+      "c5_text": "Keine Warnungen für anstehende Wartungen. Ausfälle überraschen Sie mitten auf der Route. Reaktive statt vorausschauender Wartung.",
+      "c6_title": "Null Fahrer-Transparenz",
+      "c6_text": "Hartes Bremsen, Rasen, Leerlauf — keine Daten, bis etwas passiert. HOS-Verstöße bleiben bis zur Kontrolle unentdeckt.",
+      "c6_fine": "Bis zu €4.300 Bußgeld · Serbien"
+    }
+  },
+  "how": {
+    "label": "Ablauf",
+    "title_a": "Vom Erstkontakt",
+    "title_em": "zu Live-Daten in 5 Tagen",
+    "steps": {
+      "s1_title": "Erstgespräch — 15 Minuten",
+      "s1_text": "Wir fragen nach Ihrer Flotte, Ihrem aktuellen Tacho-Prozess und wo Dokumente liegen. Kein Pitch. Wir zeigen nur, was für Sie relevant ist.",
+      "s2_title": "30-Tage kostenloser Pilot",
+      "s2_text": "Wir installieren Geräte auf 2 Ihrer Fahrzeuge. €100 erstattbare Kaution pro Gerät. Kein Abo. Keine Installationsgebühr. Sie sehen echte Daten aus Ihrer Flotte.",
+      "s3_title": "Installation — gleiche Woche",
+      "s3_text": "Unser Team kommt zu Ihnen. OBD-II-Stecker für leichte Fahrzeuge (2 Min). CAN-Bus verdrahtet für schwere LKW mit Tacho-Integration (~3 Stunden/LKW).",
+      "s4_title": "Live-Daten — sofort",
+      "s4_text": "Sobald die Geräte installiert sind, sehen Sie Live-Standort, Verbrauch und Tacho. Kein Warten. Keine Einrichtung. Browser öffnen — fertig.",
+      "s5_title": "Pilot-Review → Skalierung",
+      "s5_text": "Nach 30 Tagen prüfen wir die Daten gemeinsam. Wenn Sie Mehrwert sehen — wir erweitern auf die gesamte Flotte. Wenn nicht — volle Erstattung, keine Fragen."
+    },
+    "timeline": {
+      "title": "Pilot-Zeitplan",
+      "day0_day": "Tag 0",
+      "day0_title": "Vertrag & Bestellung",
+      "day0_desc": "€100 Kaution bestätigt. Teltonika-Geräte bestellt. WhatsApp-Kanal geöffnet.",
+      "day0_badge": "Setup",
+      "day12_day": "Tag 1–2",
+      "day12_title": "Plattform konfiguriert",
+      "day12_desc": "Fahrzeugprofile, Nutzer, Alarme, Geofences — alles bereit vor Ankunft der Geräte.",
+      "day12_badge": "Konfig",
+      "day34_day": "Tag 3–4",
+      "day34_title": "Hardware installiert",
+      "day34_desc": "Unser Team in Ihrem Depot. GPS-Signal verifiziert. Tacho-Verbindung bestätigt.",
+      "day34_badge": "Installation",
+      "day5_day": "Tag 5",
+      "day5_title": "Go-Live",
+      "day5_desc": "System ist live. Schulung abgeschlossen. Daten fließen in Echtzeit.",
+      "day5_badge": "Live ●",
+      "day7_day": "Tag 7",
+      "day7_title": "Erstes Check-in",
+      "day7_desc": "Wir prüfen erste Daten gemeinsam. Erste Erkenntnisse. Blocker werden am selben Tag gelöst.",
+      "day7_badge": "Review",
+      "day30_day": "Tag 30",
+      "day30_title": "Pilot-Review",
+      "day30_desc": "Volle Ergebnisse präsentiert. ROI berechnet. Ausrollen auf die gesamte Flotte oder volle Erstattung — Ihre Wahl.",
+      "day30_badge": "Entscheidung"
+    }
+  },
+  "features": {
+    "label": "Plattform",
+    "title_a": "Ein Login.",
+    "title_em": "Alles.",
+    "sub": "Schluss mit 5 verschiedenen Tools. GPS, Tachograph, Dokumente, Routen, Diagnose — alles in einem Kontrollzentrum.",
+    "cards": {
+      "remote_title": "Fern-Tachograph-Download",
+      "remote_text": "Laden Sie Fahrerkarten- und Fahrzeugdaten fern in zwei Klicks — egal wo der LKW ist. Automatisierte Konformitätsprüfungen nach EU-Verordnung 561/2006. Warnungen vor drohenden Verstößen, bevor sie passieren. Exportierbare Berichte für Straßenkontrollen.",
+      "remote_tag": "★ Alleinstellungsmerkmal",
+      "docs_title": "Dokumentenverwaltung",
+      "docs_text": "Alle Zulassungen, Führerscheine, Versicherungen und Prüfberichte — an einem durchsuchbaren Ort. Automatische Ablaufwarnungen 30 Tage im Voraus. Rollenbasierter Zugriff.",
+      "docs_tag": "★ Einzigartig am Markt",
+      "gps_title": "Echtzeit-GPS",
+      "gps_text": "Live-Standort jedes Fahrzeugs. Geofencing mit automatischen Alarmen. Routenwiedergabe aus der Historie. Statusanzeigen: fährt, Leerlauf, geparkt.",
+      "fuel_title": "Verbrauchsanalyse",
+      "fuel_text": "Verbrauch pro Fahrzeug und Route. Anomalie-Erkennung für Diebstahl oder Leckagen. Kosten pro Kilometer. Flotten-Benchmarking.",
+      "route_title": "Routenoptimierung",
+      "route_text": "KI-gestützte Routenplanung mit Verkehr, Maut, Fahrzeugrestriktionen und Lieferfenstern. Live-ETA-Updates für Disponenten.",
+      "diag_title": "Diagnose & HOS",
+      "diag_text": "Live-HOS-Tracking für jeden Fahrer. Motor-Fehlercodes, Öldruck, Batteriespannung kontinuierlich überwacht. Vorausschauende Wartungswarnungen."
+    }
+  },
+  "fines": {
+    "label": "Konformität",
+    "title_a": "Ein Bußgeld deckt",
+    "title_em": "Jahre Groute.",
+    "sub": "Das sind die echten Bußgelder für Tacho-Verstöße auf dem Balkan. Ein verpasster Download in BiH kann mehr kosten als ein ganzes Jahr Groute-Abo für Ihre gesamte Flotte.",
+    "types": {
+      "missed": "Verpasster Download",
+      "hos": "HOS-Verstoß",
+      "manip": "Manipulation"
+    },
+    "countries": {
+      "serbia": "Serbien",
+      "bih": "BiH",
+      "croatia": "Kroatien",
+      "slovenia": "Slowenien"
+    }
+  },
+  "pricing": {
+    "label": "Preise",
+    "title_a": "Transparent. Pro Fahrzeug.",
+    "title_em": "Keine Überraschungen.",
+    "sub": "Keine versteckten Gebühren. Keine Langzeitbindung. Monatlich verfügbar. Das Produkt bindet Sie — nicht der Vertrag.",
+    "per_vehicle": "/ Fahrzeug",
+    "billing": "pro Monat · monatliche Abrechnung · 10% Jahresrabatt",
+    "starter": {
+      "name": "Starter",
+      "f1": "Echtzeit-GPS-Tracking",
+      "f2": "Fahrzeug-Telematik",
+      "f3": "Kostenberechnung pro Route",
+      "f4": "Routenplanung",
+      "f5": "Service-Benachrichtigungen",
+      "f6": "Fahrerkarten-Ablauf",
+      "f7": "Routen-Historie",
+      "cta": "Kostenlosen Piloten starten"
+    },
+    "pro": {
+      "name": "Professional",
+      "badge": "Beliebt",
+      "f1": "Alles aus Starter",
+      "f2": "Fern-Tachograph-Download (DDD)",
+      "f3": "Dokumentenverwaltung",
+      "f4": "Live-HOS-Daten",
+      "f5": "HOS-Konformität (EU 561/2006)",
+      "f6": "Priority-Support",
+      "cta": "Kostenlosen Piloten starten"
+    },
+    "pilot": {
+      "title": "Starten Sie mit einem kostenlosen 30-Tage-Piloten",
+      "desc": "Wir installieren Geräte auf 2 Ihrer Fahrzeuge. Sie zahlen eine erstattbare Kaution von €100 pro Gerät. Kein Abo. Keine Installationsgebühr. Volle Erstattung bei Nichtzufriedenheit — keine Fragen.",
+      "deposit_val": "€100",
+      "deposit_label": "Erstattbare Kaution",
+      "days_val": "30",
+      "days_label": "Tage gratis",
+      "install_val": "€0",
+      "install_label": "Installationskosten"
+    }
+  },
+  "cta": {
+    "label": "Loslegen",
+    "title_a": "Schluss damit, Ihre LKW",
+    "title_em": "zur Werkstatt zu fahren.",
+    "sub": "Buchen Sie einen 15-minütigen Call. Kein Pitch. Wir fragen nach Ihrer Flotte und zeigen nur, was relevant ist. Wenn es passt — haben wir Geräte innerhalb einer Woche auf Ihren LKWs.",
+    "primary": "Erstgespräch buchen",
+    "secondary": "Nachricht senden",
+    "note_pilot": "Kostenloser 30-Tage-Pilot",
+    "note_deposit": "€100 erstattbare Kaution",
+    "note_commit": "Keine Langzeitbindung"
+  },
+  "footer": {
+    "tagline": "Fleet Intelligence, Delivered · Balkan-first",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "pilot": "Pilot",
+    "contact": "Kontakt",
+    "copy": "© 2026 Groute · Brčko-Distrikt, Bosnien und Herzegowina · DSGVO-konform"
+  }
+}

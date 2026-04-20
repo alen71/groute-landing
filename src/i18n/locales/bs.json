@@ -1,0 +1,213 @@
+{
+  "nav": {
+    "how": "Kako funkcioniše",
+    "features": "Mogućnosti",
+    "pricing": "Cijene",
+    "cta": "Pokreni besplatan pilot"
+  },
+  "hero": {
+    "badge": "Uživo · Prva fleet platforma na Balkanu",
+    "title_line1": "Svaki kamion.",
+    "title_line2": "Svaki euro.",
+    "title_line3": "Jedna platforma.",
+    "sub_strong": "Daljinsko preuzimanje tahografa. Dokumenti na jednom mjestu. GPS uživo.",
+    "sub_rest": "Nema više vožnje flote u servis svakih 28 dana. Groute to obavi u dva klika — gdje god da je kamion.",
+    "primary_cta": "Pokreni besplatni 30-dnevni pilot",
+    "secondary_cta": "Pogledaj kako funkcioniše →",
+    "stats": {
+      "fine_val": "€5.100",
+      "fine_label": "Kazna za 1 propušteno preuzimanje tahografa · BiH",
+      "clicks_val": "2",
+      "clicks_accent": "klika",
+      "clicks_label": "Za daljinsko preuzimanje podataka s tahografa",
+      "price_val": "€15",
+      "price_label": "Po vozilu / mjesečno — Starter paket",
+      "days_val": "5",
+      "days_accent": "dana",
+      "days_label": "Prosječno vrijeme uvođenja"
+    },
+    "dashboard": {
+      "title": "groute.app · Kontrolna ploča flote",
+      "active_vehicles": "Aktivna vozila",
+      "active_sub": "Sva javljaju",
+      "tacho_status": "Status tahografa",
+      "tacho_val": "Usklađeno",
+      "tacho_sub": "Zadnja sinhronizacija prije 2 min",
+      "fuel_avg": "Prosječna potrošnja",
+      "fuel_sub": "↑ 3% u odnosu na prošlu sedmicu",
+      "live_label": "PRAĆENJE UŽIVO · 24 VOZILA",
+      "live_badge": "● UŽIVO",
+      "th_vehicle": "Vozilo",
+      "th_driver": "Vozač",
+      "th_hos": "HOS",
+      "th_tacho": "Tahograf",
+      "th_status": "Status",
+      "status_moving": "U pokretu",
+      "status_rest": "Pauza"
+    }
+  },
+  "pain": {
+    "label": "Problem",
+    "title_a": "Zvuči ",
+    "title_em": "poznato?",
+    "sub": "Svaki operater flote s kojim razgovaramo ima bar dva od ovih problema. Ako se ne riješe, pretvaraju se u kazne, izgubljeno vrijeme i nesreće koje samo čekaju.",
+    "cards": {
+      "c1_title": "Tahograf svakih 28 dana",
+      "c1_text": "Vozači i vozila moraju biti u servisu istovremeno, svakih 28 dana. Pakao za koordinatora. Izgubljene vožnje. Zaboravljena preuzimanja.",
+      "c1_fine": "Kazna do €5.100 · BiH",
+      "c2_title": "Dokumenti razbacani svuda",
+      "c2_text": "Registracija u mejlu. Polisa u ladici. Slika vozačke na WhatsAppu. Tehnički pregled — niko ne zna gdje. Do dana inspekcije.",
+      "c3_title": "Troškovi goriva su crna kutija",
+      "c3_text": "Nema podataka o gorivu po vozilu. Nema razbijanja troškova po ruti. Nema načina da uhvatite kamion koji troši 20% više od ostatka flote.",
+      "c4_title": "Rute po osjećaju",
+      "c4_text": "Dispečeri biraju rute iz navike, ne iz podataka. Bez saobraćaja, bez cestarina, bez uračunatih ograničenja vozila. Nepotrebno trošenje goriva na svakoj vožnji.",
+      "c5_title": "Iznenađenja s održavanjem",
+      "c5_text": "Nema upozorenja za naredne servisne intervale. Kvarovi vas zateknu usred rute. Reaktivno održavanje umjesto predvidivog.",
+      "c6_title": "Nula vidljivosti vozača",
+      "c6_text": "Naglo kočenje, prebrza vožnja, praznom hodu — nema podataka dok se nešto ne polomi ili neko ne strada. Kršenja HOS-a ostaju neotkrivena do inspekcije.",
+      "c6_fine": "Kazna do €4.300 · Srbija"
+    }
+  },
+  "how": {
+    "label": "Proces",
+    "title_a": "Od prvog kontakta",
+    "title_em": "do podataka uživo za 5 dana",
+    "steps": {
+      "s1_title": "Uvodni poziv — 15 minuta",
+      "s1_text": "Pitamo o vašoj floti, trenutnom procesu za tahograf i gdje se nalaze dokumenti. Bez prodaje. Pokazujemo samo ono što je relevantno za vas.",
+      "s2_title": "30-dnevni besplatni pilot",
+      "s2_text": "Instaliramo uređaje na 2 vaša vozila. €100 povratni polog po uređaju. Bez pretplate. Bez troškova instalacije. Vidite prave podatke iz vlastite flote.",
+      "s3_title": "Instalacija — iste sedmice",
+      "s3_text": "Naš tim dolazi kod vas. OBD-II za laka vozila (2 min). CAN bus ožičen za teške kamione s integracijom tahografa (~3 sata/kamion).",
+      "s4_title": "Podaci uživo — odmah",
+      "s4_text": "Čim se uređaji instaliraju, vidite lokaciju, gorivo i tahograf uživo. Bez čekanja. Bez postavki. Samo otvorite preglednik.",
+      "s5_title": "Pregled pilota → Skaliranje",
+      "s5_text": "Nakon 30 dana zajedno pregledamo podatke. Ako vidite vrijednost — širimo se na cijelu flotu. Ako ne — pun povrat pologa, bez pitanja."
+    },
+    "timeline": {
+      "title": "Vremenska linija pilota",
+      "day0_day": "Dan 0",
+      "day0_title": "Ugovor i narudžba",
+      "day0_desc": "€100 polog potvrđen. Teltonika uređaji naručeni. WhatsApp kanal otvoren.",
+      "day0_badge": "Priprema",
+      "day12_day": "Dan 1–2",
+      "day12_title": "Platforma postavljena",
+      "day12_desc": "Profili vozila, korisnici, alarmi, geofence-i — sve spremno prije dolaska uređaja.",
+      "day12_badge": "Konfig",
+      "day34_day": "Dan 3–4",
+      "day34_title": "Hardver instaliran",
+      "day34_desc": "Naš tim u vašem depou. GPS signal potvrđen. Konekcija tahografa potvrđena.",
+      "day34_badge": "Instalacija",
+      "day5_day": "Dan 5",
+      "day5_title": "Pokretanje",
+      "day5_desc": "Sistem uživo. Obuka završena. Podaci teku u realnom vremenu.",
+      "day5_badge": "Uživo ●",
+      "day7_day": "Dan 7",
+      "day7_title": "Prva provjera",
+      "day7_desc": "Zajedno pregledamo prve podatke. Prvi uvidi. Sve prepreke se rješavaju istog dana.",
+      "day7_badge": "Pregled",
+      "day30_day": "Dan 30",
+      "day30_title": "Pregled pilota",
+      "day30_desc": "Predstavljamo pune rezultate. Izračunat ROI. Proširenje na cijelu flotu ili pun povrat — vaš izbor.",
+      "day30_badge": "Odluka"
+    }
+  },
+  "features": {
+    "label": "Platforma",
+    "title_a": "Jedna prijava.",
+    "title_em": "Sve.",
+    "sub": "Prestanite žonglirati s 5 različitih alata. GPS, tahograf, dokumenti, rute, dijagnostika — sve u jednom komandnom centru.",
+    "cards": {
+      "remote_title": "Daljinsko preuzimanje tahografa",
+      "remote_text": "Preuzmite podatke vozačke kartice i vozila daljinski u dva klika — bez obzira gdje je kamion. Automatizovane provjere usklađenosti s EU Uredbom 561/2006. Upozorenja za nadolazeće prekršaje prije nego se dogode. Izvozljivi izvještaji za inspekciju.",
+      "remote_tag": "★ Ključna razlika",
+      "docs_title": "Upravljanje dokumentima",
+      "docs_text": "Sve registracije, vozačke dozvole, police osiguranja i zapisnici o pregledima — na jednom pretraživom mjestu. Automatska upozorenja o isteku 30 dana unaprijed. Pristup zasnovan na ulogama.",
+      "docs_tag": "★ Jedinstveno na tržištu",
+      "gps_title": "GPS uživo",
+      "gps_text": "Lokacija svakog vozila uživo. Geofencing s automatskim upozorenjima. Ponovno puštanje historijskih ruta. Indikatori statusa: u pokretu, praznom hodu, parkirano.",
+      "fuel_title": "Analiza goriva",
+      "fuel_text": "Potrošnja po vozilu i ruti. Otkrivanje anomalija za krađu ili curenje goriva. Izračun troškova po kilometru. Benchmarking flote.",
+      "route_title": "Optimizacija ruta",
+      "route_text": "AI-potpomognuto planiranje ruta sa saobraćajem, cestarinama, ograničenjima vozila i prozorima za isporuku. Ažuriranje ETA-e uživo za dispečere.",
+      "diag_title": "Dijagnostika i HOS",
+      "diag_text": "Praćenje HOS-a uživo za svakog vozača. Kodovi grešaka motora, pritisak ulja, napon baterije kontinuirano praćeni. Upozorenja za predvidivo održavanje."
+    }
+  },
+  "fines": {
+    "label": "Usklađenost",
+    "title_a": "Jedna kazna pokriva",
+    "title_em": "godine Groute-a.",
+    "sub": "Ovo su stvarne kazne za kršenja tahografa širom Balkana. Jedno propušteno preuzimanje u BiH može koštati više od pune godine Groute pretplate za cijelu vašu flotu.",
+    "types": {
+      "missed": "Propušteno preuzimanje",
+      "hos": "Kršenje HOS",
+      "manip": "Manipulacija"
+    },
+    "countries": {
+      "serbia": "Srbija",
+      "bih": "BiH",
+      "croatia": "Hrvatska",
+      "slovenia": "Slovenija"
+    }
+  },
+  "pricing": {
+    "label": "Cijene",
+    "title_a": "Transparentno. Po vozilu.",
+    "title_em": "Bez iznenađenja.",
+    "sub": "Bez skrivenih naknada. Bez dugoročnog ugovora. Dostupno mjesečno. Proizvod vas zadržava — ne ugovor.",
+    "per_vehicle": "/ vozilu",
+    "billing": "mjesečno · mjesečna naplata · 10% popusta godišnje",
+    "starter": {
+      "name": "Starter",
+      "f1": "Praćenje GPS uživo",
+      "f2": "Telematika vozila",
+      "f3": "Izračun troškova po ruti",
+      "f4": "Planiranje ruta",
+      "f5": "Obavještenja o servisu",
+      "f6": "Praćenje isteka vozačke kartice",
+      "f7": "Historija ruta",
+      "cta": "Pokreni besplatan pilot"
+    },
+    "pro": {
+      "name": "Professional",
+      "badge": "Popularno",
+      "f1": "Sve iz Starter paketa",
+      "f2": "Daljinsko preuzimanje tahografa (DDD)",
+      "f3": "Upravljanje dokumentima",
+      "f4": "HOS podaci uživo",
+      "f5": "HOS usklađenost (EU 561/2006)",
+      "f6": "Prioritetna podrška",
+      "cta": "Pokreni besplatan pilot"
+    },
+    "pilot": {
+      "title": "Započnite besplatnim 30-dnevnim pilotom",
+      "desc": "Instaliramo uređaje na 2 vaša vozila. Plaćate povratni polog od €100 po uređaju. Bez pretplate. Bez troškova instalacije. Potpun povrat ako niste zadovoljni — bez pitanja.",
+      "deposit_val": "€100",
+      "deposit_label": "Povratni polog",
+      "days_val": "30",
+      "days_label": "Dana besplatno",
+      "install_val": "€0",
+      "install_label": "Trošak instalacije"
+    }
+  },
+  "cta": {
+    "label": "Krenite",
+    "title_a": "Prestanite voziti kamione",
+    "title_em": "u servisni centar.",
+    "sub": "Zakažite 15-minutni poziv. Bez prodaje. Pitamo o vašoj floti i pokazujemo samo ono što je relevantno. Ako ima smisla — uređaji su na kamionima unutar sedmice.",
+    "primary": "Zakažite uvodni poziv",
+    "secondary": "Pošaljite nam poruku",
+    "note_pilot": "Besplatan 30-dnevni pilot",
+    "note_deposit": "€100 povratnog pologa",
+    "note_commit": "Bez dugoročnih obaveza"
+  },
+  "footer": {
+    "tagline": "Fleet Intelligence, Delivered · Prvi na Balkanu",
+    "features": "Mogućnosti",
+    "pricing": "Cijene",
+    "pilot": "Pilot",
+    "contact": "Kontakt",
+    "copy": "© 2026 Groute · Brčko Distrikt, Bosna i Hercegovina · GDPR usklađeno"
+  }
+}
